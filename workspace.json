@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "site": "apps/site",
+    "site-articles": "libs/site/articles",
     "site-e2e": "apps/site-e2e"
   }
 }
